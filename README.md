@@ -295,11 +295,6 @@ pytest -v
 
 ---
 
-## 👥 Contributors
-
-| Name | Role | GitHub |
-| :--- | :--- | :--- |
-| Venkatesh Malakala | Lead Architect & Maintainer | [@venkateshmalakala](https://github.com/venkateshmalakala) |
 
 ---
 
