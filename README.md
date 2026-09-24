@@ -8,8 +8,8 @@
 
 An intelligent, emotion-aware learning support system that transforms student free-text study challenges into personalized, empathetic pedagogical guidance. By detecting core affective states, the platform delivers tailored learning strategies to optimize student engagement and academic outcomes.
 
-> ### 🚀 **[Live Demo: Emotion Learning Support](https://share.google/3OOGtIsIbL6wJCILG)**
-> 🔗 https://share.google/3OOGtIsIbL6wJCILG
+> ### 🚀 **[Live Demo: Emotion Learning Support]([https://share.google/3OOGtIsIbL6wJCILG](https://emotion-detection-learning-support-engine-22ycqnfwuuwhlgka9sh8.streamlit.app/))**
+
 
 ---
 
