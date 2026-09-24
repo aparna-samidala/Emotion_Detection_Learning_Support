@@ -1,0 +1,47 @@
+Timestamp,User Input,Emotion,Confidence,AI Response
+2026-09-24 16:06:19.667861,boring,Bored,"{'Bored': 100.0, 'Confident': 0.0, 'Confused': 0.0, 'Curious': 0.0, 'Frustrated': 0.0}","I understand you are feeling Bored.
+
+Learning Tips:
+- Break the topic into smaller concepts.
+- Practice with simple examples.
+- Revise the basics and try again."
+2026-09-24 16:08:30.544843,"""I've been trying to debug this binary search tree code for two hours and nothing is working. I feel completely overwhelmed and frustrated.""",Frustrated,"{'Bored': 0.0, 'Confident': 0.0, 'Confused': 0.0, 'Curious': 0.0, 'Frustrated': 100.0}","I understand you are feeling Frustrated.
+
+Learning Tips:
+- Break the topic into smaller concepts.
+- Practice with simple examples.
+- Revise the basics and try again."
+2026-09-24 16:08:58.163620,"""I have an exam on dynamic programming tomorrow, but the time complexity concepts are making no sense to me. I'm really anxious I'm going to fail.""",Curious,"{'Bored': 0.0, 'Confident': 0.0, 'Confused': 0.0, 'Curious': 100.0, 'Frustrated': 0.0}","I understand you are feeling Curious.
+
+Learning Tips:
+- Break the topic into smaller concepts.
+- Practice with simple examples.
+- Revise the basics and try again."
+2026-09-24 16:09:33.104200,"""Reading through all these long database normalization rules is so dry and boring. I can't stay focused or find the motivation to keep reading.""
+
+",Bored,"{'Bored': 100.0, 'Confident': 0.0, 'Confused': 0.0, 'Curious': 0.0, 'Frustrated': 0.0}","I understand you are feeling Bored.
+
+Learning Tips:
+- Break the topic into smaller concepts.
+- Practice with simple examples.
+- Revise the basics and try again."
+2026-09-24 16:10:02.780043,"I want to go out but it is raining
+
+",Curious,"{'Bored': 0.0, 'Confident': 0.0, 'Confused': 0.0, 'Curious': 100.0, 'Frustrated': 0.0}","I understand you are feeling Curious.
+
+Learning Tips:
+- Break the topic into smaller concepts.
+- Practice with simple examples.
+- Revise the basics and try again."
+2026-09-24 16:11:49.947458,"""I want to go out but it is raining""",Curious,"{'Bored': 0.0, 'Confident': 0.0, 'Confused': 0.0, 'Curious': 100.0, 'Frustrated': 0.0}","I understand you are feeling Curious.
+
+Learning Tips:
+- Break the topic into smaller concepts.
+- Practice with simple examples.
+- Revise the basics and try again."
+2026-09-24 16:18:31.495700,"""I have to read 50 pages of raw database documentation today and I just can't keep my eyes open.""",Curious,"{'Bored': 0.0, 'Confident': 0.0, 'Confused': 0.0, 'Curious': 100.0, 'Frustrated': 0.0}","I understand you are feeling Curious.
+
+Learning Tips:
+- Break the topic into smaller concepts.
+- Practice with simple examples.
+- Revise the basics and try again."
